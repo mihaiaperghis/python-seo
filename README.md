@@ -1,2 +1,2 @@
 # python-seo
-Collection of 
+Collection of Python scripts mainly used for SEO purposes.
